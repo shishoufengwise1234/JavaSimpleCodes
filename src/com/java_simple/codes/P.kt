@@ -12,3 +12,7 @@ package com.java_simple.codes
 fun out(string: String){
     println(string)
 }
+
+fun out(any: Any){
+    println(any)
+}
